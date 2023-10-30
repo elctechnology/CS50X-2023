@@ -1,6 +1,3 @@
-# CS50X-2023
-CS50x Final Project
-
 # password_generator_extention
 
 #### Video Demo: <https://www.youtube.com/watch?v=vMbCIwxWMIA>
@@ -35,4 +32,3 @@ To generate a password, simply enter the length of the password you want to gene
 ## Credits
 
 This project was created by [Mohammad Nabidoust](https://github.com/elctechnology).
-
